@@ -4,4 +4,3 @@
 - DB : Mysql
 - Server : Linux
 - API : Python
--- 일별
